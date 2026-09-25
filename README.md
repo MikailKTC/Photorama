@@ -1,5 +1,7 @@
 # Photorama
 
+![Photorama Application](src/main/images/Photorama.png)
+
 **Photorama** is a Java-based image gallery application designed to detect and group visually similar or duplicate images.
 
 The application provides two interfaces:
