@@ -501,24 +501,6 @@ The project is therefore also an exploration of the trade-off between comparison
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of the application here:
-
-```markdown
-## Screenshots
-
-### Main Interface
-
-![Photorama Interface](images/application.png)
-
-### Duplicate Detection
-
-![Duplicate Detection](images/duplicates.png)
-```
-
----
-
 # 🔗 Repository
 
 **GitHub:**
